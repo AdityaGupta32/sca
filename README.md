@@ -60,7 +60,7 @@
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/AdityaGupta32/Scanner.git
-cd Hackcrypt-Final
+
 ```
 
 ### 2. Backend Setup (Scanner Engine)
